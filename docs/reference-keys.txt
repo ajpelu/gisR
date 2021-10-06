@@ -1,6 +1,3 @@
-fig:nice-fig
-tab:nice-tab
-prerequisites
-intro
+preámbulo
 operaciones-vectoriales
 dividir-una-capa-vectorial-en-múltiples-partes
